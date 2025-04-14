@@ -1,0 +1,47 @@
+/* Style by element selector */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(58, 63, 68);
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Style by ID */
+#main-header {
+    background-color: #2c8d49;
+    color: rgb(173, 19, 19);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style by class */
+.subtitle {
+    font-size: 1.2em;
+    color: #ffc107;
+}
+
+.content {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ddd;
+    background-color: #ccc0d1;
+}
+
+/* Style the image */
+.styled-image {
+    width: 100%;
+    max-width: 600px;
+    border: 10px solid #002B5B;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+/* Another class example */
+.footer-text {
+    text-align: center;
+    padding: 15px;
+    background-color: #002B5B;
+    color: #fff;
+    margin-top: 30px;
+}
